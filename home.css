@@ -1,0 +1,57 @@
+
+		nav{
+			color: white !important;
+			background-color:blue;
+		}
+		nav a{
+			color: white;
+			font-weight: bold;
+		}
+		.img{
+			height: 500px;
+			width: 100%;
+			margin: 10px;
+			margin-top: -20px !important;
+
+		}
+	
+		h2,h3{
+			text-align: center;
+		}
+		.para{
+			margin: 10px 50px;
+
+		}
+		p{
+			font-size: 15px;
+		}
+		.sec{
+			display: flex;
+			justify-content: center;
+
+		}
+		.sec div{
+			margin: 20px;
+		}
+		.sec img{
+			width: 100%;
+			padding-top: 30px;
+		}
+	
+	
+		.div{
+			width: 18%;
+		}
+		.block{
+			display:square;
+			height: 40%;
+		
+			border: no-borders;
+			background-color: blue;
+			color: white;
+			text-align: center;
+			align-content: center;
+			font-size: 25px;
+		}
+
+	
